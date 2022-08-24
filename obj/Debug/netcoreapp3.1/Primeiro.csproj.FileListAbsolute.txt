@@ -1,0 +1,16 @@
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\WorkspaceLediane\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.Form1.resources
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.GenerateResource.cache
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\WorkspaceLediane\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
